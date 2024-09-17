@@ -1,0 +1,74 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "examples": [
+        "Hello",
+        "Hi",
+        "Hey",
+        "Good morning"
+      ],
+      "response": "Hello! How can I assist you today?"
+    },
+    {
+      "intent": "goodbye",
+      "examples": [
+        "Goodbye",
+        "See you later",
+        "Bye",
+        "Take care"
+      ],
+      "response": "Goodbye! Have a great day!"
+    },
+    {
+      "intent": "weather",
+      "examples": [
+        "What's the weather like?",
+        "Tell me the weather",
+        "How's the weather today?",
+        "Weather update"
+      ],
+      "response": "I can provide weather updates. Please specify your location."
+    },
+    {
+      "intent": "news",
+      "examples": [
+        "What's the news?",
+        "Tell me the latest news",
+        "News update",
+        "Any breaking news?"
+      ],
+      "response": "I can give you the latest news. What topic are you interested in?"
+    },
+    {
+      "intent": "joke",
+      "examples": [
+        "Tell me a joke",
+        "I need a laugh",
+        "Make me laugh",
+        "Do you have a joke?"
+      ],
+      "response": "Why don’t scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "intent": "time",
+      "examples": [
+        "What time is it?",
+        "Tell me the time",
+        "Current time",
+        "What's the time now?"
+      ],
+      "response": "Let me check the time for you."
+    },
+    {
+      "intent": "help",
+      "examples": [
+        "Can you help me?",
+        "I need assistance",
+        "Help",
+        "I need support"
+      ],
+      "response": "Sure, I’m here to help. What do you need assistance with?"
+    }
+  ]
+}
